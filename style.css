@@ -8,5 +8,18 @@ a {
 h1 {
  font-size: 3.5em;
   color: #A5B4FC;
-  font-family: montserra;
+  font-family: "Montserrat";
 } 
+p{
+  font-weight: 1.1em;
+  font-family: "Manrope";
+}
+ul,ol{
+font-weight: 1em;
+  font-family: "Manrope";
+}
+a{
+text-decoration: none;
+  font-size: 1em;
+  font-family: "Manrope";
+}
